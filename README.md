@@ -110,7 +110,7 @@ E-Sports-Tournament-System/
 ---
 
 ## 👨‍💻 Author
-- Your Name Here  
+- Abdulrahman Ageeli 
 
 ---
 
