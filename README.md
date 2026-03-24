@@ -100,7 +100,13 @@ E-Sports-Tournament-System/
 ```
 
 ---
+## 🗺️ Entity Relationship Diagram (ERD)
 
+This diagram represents the structure of the database and the relationships between entities.
+
+![ERD](ERD.png)
+
+---
 ## 📌 Future Enhancements
 - Add player statistics tracking  
 - Implement ranking system (ELO/MMR)  
